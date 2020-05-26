@@ -1,0 +1,2 @@
+(this["webpackJsonpdelta-shop"]=this["webpackJsonpdelta-shop"]||[]).push([[0],[,,,function(e,t,n){e.exports=n(4)},function(e,t,n){"use strict";n.r(t);n(5);var o=n(0),a=n.n(o),c=n(2);n.n(c).a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement("h1",null,"Shop :)")),document.getElementById("root"))},function(e,t,n){}],[[3,1,2]]]);
+//# sourceMappingURL=main.5057beb8.chunk.js.map
