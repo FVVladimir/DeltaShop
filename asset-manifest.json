@@ -5,17 +5,17 @@
     "main.js.map": "/DeltaShop/static/js/main.95ce6c41.chunk.js.map",
     "runtime-main.js": "/DeltaShop/static/js/runtime-main.6f0a83a7.js",
     "runtime-main.js.map": "/DeltaShop/static/js/runtime-main.6f0a83a7.js.map",
-    "static/js/2.e84fd7af.chunk.js": "/DeltaShop/static/js/2.e84fd7af.chunk.js",
-    "static/js/2.e84fd7af.chunk.js.map": "/DeltaShop/static/js/2.e84fd7af.chunk.js.map",
+    "static/js/2.a4ea43d1.chunk.js": "/DeltaShop/static/js/2.a4ea43d1.chunk.js",
+    "static/js/2.a4ea43d1.chunk.js.map": "/DeltaShop/static/js/2.a4ea43d1.chunk.js.map",
     "index.html": "/DeltaShop/index.html",
-    "precache-manifest.7bc98c47da4d2a368edbd4a65ad2f7a3.js": "/DeltaShop/precache-manifest.7bc98c47da4d2a368edbd4a65ad2f7a3.js",
+    "precache-manifest.69314fdeaf2f569ab7060844c98beb52.js": "/DeltaShop/precache-manifest.69314fdeaf2f569ab7060844c98beb52.js",
     "service-worker.js": "/DeltaShop/service-worker.js",
     "static/css/main.5c39fc79.chunk.css.map": "/DeltaShop/static/css/main.5c39fc79.chunk.css.map",
-    "static/js/2.e84fd7af.chunk.js.LICENSE.txt": "/DeltaShop/static/js/2.e84fd7af.chunk.js.LICENSE.txt"
+    "static/js/2.a4ea43d1.chunk.js.LICENSE.txt": "/DeltaShop/static/js/2.a4ea43d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f0a83a7.js",
-    "static/js/2.e84fd7af.chunk.js",
+    "static/js/2.a4ea43d1.chunk.js",
     "static/css/main.5c39fc79.chunk.css",
     "static/js/main.95ce6c41.chunk.js"
   ]
