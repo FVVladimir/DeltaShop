@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/DeltaShop/static/css/main.5c39fc79.chunk.css",
-    "main.js": "/DeltaShop/static/js/main.95ce6c41.chunk.js",
-    "main.js.map": "/DeltaShop/static/js/main.95ce6c41.chunk.js.map",
+    "main.js": "/DeltaShop/static/js/main.07a9ad83.chunk.js",
+    "main.js.map": "/DeltaShop/static/js/main.07a9ad83.chunk.js.map",
     "runtime-main.js": "/DeltaShop/static/js/runtime-main.6f0a83a7.js",
     "runtime-main.js.map": "/DeltaShop/static/js/runtime-main.6f0a83a7.js.map",
-    "static/js/2.a4ea43d1.chunk.js": "/DeltaShop/static/js/2.a4ea43d1.chunk.js",
-    "static/js/2.a4ea43d1.chunk.js.map": "/DeltaShop/static/js/2.a4ea43d1.chunk.js.map",
+    "static/js/2.4e7dea52.chunk.js": "/DeltaShop/static/js/2.4e7dea52.chunk.js",
+    "static/js/2.4e7dea52.chunk.js.map": "/DeltaShop/static/js/2.4e7dea52.chunk.js.map",
     "index.html": "/DeltaShop/index.html",
-    "precache-manifest.69314fdeaf2f569ab7060844c98beb52.js": "/DeltaShop/precache-manifest.69314fdeaf2f569ab7060844c98beb52.js",
+    "precache-manifest.902a28ede59bb29b355af209a568016b.js": "/DeltaShop/precache-manifest.902a28ede59bb29b355af209a568016b.js",
     "service-worker.js": "/DeltaShop/service-worker.js",
     "static/css/main.5c39fc79.chunk.css.map": "/DeltaShop/static/css/main.5c39fc79.chunk.css.map",
-    "static/js/2.a4ea43d1.chunk.js.LICENSE.txt": "/DeltaShop/static/js/2.a4ea43d1.chunk.js.LICENSE.txt"
+    "static/js/2.4e7dea52.chunk.js.LICENSE.txt": "/DeltaShop/static/js/2.4e7dea52.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f0a83a7.js",
-    "static/js/2.a4ea43d1.chunk.js",
+    "static/js/2.4e7dea52.chunk.js",
     "static/css/main.5c39fc79.chunk.css",
-    "static/js/main.95ce6c41.chunk.js"
+    "static/js/main.07a9ad83.chunk.js"
   ]
 }
