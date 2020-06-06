@@ -11,8 +11,7 @@ import { routerMiddleware } from 'connected-react-router' // СonnectedRouter
 import { composeWithDevTools } from 'redux-devtools-extension' // дэбаг приложения
 
 import createRootReducer from 'reducers'
-import Layout from 'containers/layout'
-
+import routes from 'routes'
 
 const history = createBrowserHistory()
 const middlewares = [thunk, routerMiddleware(history)] // функции вызываемые между actions & reducers
@@ -24,7 +23,7 @@ const store = createStore(
 ReactDOM.render(
   <Provider store={store}>
     <HashRouter history={history}>
-      <Layout />
+      {routes}
     </HashRouter>
   </Provider>,
   document.getElementById('root')
