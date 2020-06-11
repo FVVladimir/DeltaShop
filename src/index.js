@@ -13,7 +13,7 @@ import createRootReducer from 'reducers'
 
 import Grid from '@material-ui/core/Grid'
 import CssBaseline from '@material-ui/core/CssBaseline'
-import { brown } from '@material-ui/core/colors'
+import { blueGrey } from '@material-ui/core/colors'
 
 const history = createBrowserHistory()
 const middlewares = [thunk, routerMiddleware(history)] // функции вызываемые между actions & reducers
@@ -25,7 +25,7 @@ const store = createStore(
 ReactDOM.render(
   <React.Fragment>
     <CssBaseline />
-    <Grid container direction="row" justify="center" alignItems="center" style={{width: '100%', height: '100vh', backgroundColor: brown[100]}}>
+    <Grid container direction="row" justify="center" alignItems="center" style={{width: '100%', height: '100vh', backgroundColor: blueGrey[100]}}>
         <Provider store={store}>
           <HashRouter history={history}>
             {routes}
